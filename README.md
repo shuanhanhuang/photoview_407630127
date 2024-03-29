@@ -1,4 +1,4 @@
-# photoview
+# 中華職棒 photoview
 
 A new Flutter project.
 
